@@ -1,0 +1,11 @@
+E:\чето\2048\2048\bin\Debug\2048.exe.config
+E:\чето\2048\2048\bin\Debug\2048.exe
+E:\чето\2048\2048\bin\Debug\2048.pdb
+E:\чето\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+E:\чето\2048\2048\obj\Debug\2048.csproj.SuggestedBindingRedirects.cache
+E:\чето\2048\2048\obj\Debug\_2048.Form1.resources
+E:\чето\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+E:\чето\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+E:\чето\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+E:\чето\2048\2048\obj\Debug\2048.exe
+E:\чето\2048\2048\obj\Debug\2048.pdb
